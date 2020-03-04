@@ -1,0 +1,1 @@
+../common/default-install-copy-dotfiles.sh
