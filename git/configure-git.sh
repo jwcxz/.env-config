@@ -7,6 +7,8 @@ gitconfig core.excludesfile "~/.gitignore_global"
 gitconfig color.ui true
 gitconfig color.diff.meta "yellow normal bold"
 
+gitconfig pull.ff only
+
 gitconfig "branch.*branch-name*.rebase" true
 gitconfig branch.autosetuprebase always
 
